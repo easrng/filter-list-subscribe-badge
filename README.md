@@ -3,7 +3,7 @@ A badge for subscribing to filter lists
 
 It looks like this:
 
-[![Subscribe with Adblock Plus, AdGuard, AdBlock, or uBlock Origin](https://raw.githubusercontent.com/easrng/filter-list-subscribe-badge/main/subscribe.svg)]()
+[![Subscribe with Adblock Plus, AdGuard, AdBlock, or uBlock Origin](https://raw.githubusercontent.com/easrng/filter-list-subscribe-badge/main/subscribe.svg)](#)
 
 ## Usage
 Markdown:
